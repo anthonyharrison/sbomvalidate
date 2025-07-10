@@ -1,6 +1,6 @@
 # SBOMValidate
 
-The SBOMValidate is a free, open source tool to validate a SBOM (Software Bill of Materials) against the specifications for
+SBOMValidate is a free, open source tool to validate a SBOM (Software Bill of Materials) against the specifications for
 [SPDX](https://www.spdx.org) and [CycloneDX](https://www.cyclonedx.org).
 
 It is intended to be used as part of a continuous integration system to ensure only valid SBOMs are processed.
